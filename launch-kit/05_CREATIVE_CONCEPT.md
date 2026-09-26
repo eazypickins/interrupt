@@ -127,6 +127,27 @@ filled with static and a sliver of the color bars, slightly misaligned. The tear
 - `ENGINEER THE FIRST SECOND`
 - `SIGNAL FOUND. PATTERN BROKEN.`
 
+### 4.1 Logo dimensions & exports
+
+Build the **vector master once** (SVG), then export PNGs. Never stretch — always
+scale proportionally.
+
+| Use | Size (px) | Format | Notes |
+|---|---|---|---|
+| **Vector master** | `1600×500` (viewBox) | SVG | The source. Edit this, not the PNGs. |
+| Web / header (2x) | `2000×625` | PNG transparent | Primary site/landing use |
+| Web / header (1x) | `1200×375` | PNG transparent | |
+| Email / signature | `800×250` | PNG transparent | |
+| Compact mark `INT` | `512×512` + `256×256` | PNG transparent | Small spaces, watermarks |
+| Watermark (video) | `400×125`, 40% opacity | PNG transparent | Bottom-right of footage |
+| Favicon / app icon | `512×512`, `180×180` (apple-touch), `32×32`, `16×16` | PNG/ICO | Use the **mark**, not the wordmark |
+
+**Rules:**
+- **Clear space:** leave the height of the "I" on all four sides. Nothing enters it.
+- **Minimum size:** wordmark `120px` wide (screen), mark `32px`.
+- **Contrast:** bone wordmark on black, or black wordmark on bone. Never on the
+  color bars.
+
 ---
 
 ## 5. The avatar (the mark)
@@ -139,6 +160,23 @@ in the corner. Bone line-work, signal accent.
 
 It reads as "broadcast" at 40px and is unmistakable next to every other avatar in
 the feed.
+
+### 5.1 Avatar dimensions & exports
+
+| Platform | Export size (px) | Notes |
+|---|---|---|
+| Master | `512×512` | SVG source |
+| YouTube | `800×800` | Largest requirement — export this first |
+| X / Bluesky | `400×400` | |
+| Instagram / Facebook / Threads | `320×320` | |
+| TikTok | `200×200` | Smallest — verify legibility here |
+| Favicon | `180×180`, `32×32` | |
+
+**Rules:**
+- Keep the test-card content inside a **circular safe area** (center 80% of the
+  square) — every platform crops avatars to a circle.
+- **Test at 40px.** If the tear and bars don't read, simplify.
+- One avatar, identical on every platform. That repetition is the anchor.
 
 ---
 
@@ -198,11 +236,31 @@ A horizontal band of VHS tracking distortion and static, wavy analog signal tear
 bone-white and charcoal, isolated on a black background, [ASPECT], no text.
 ```
 
-### 7.5 Banner compositions
-Run 7.1 as the base, then in Canva add the wordmark + tear + tagline.
-- **YouTube 2560×1440:** test-card pattern centered, wordmark left, bars along the bottom.
-- **X / Bluesky 1500×500:** a horizontal strip of the bars, wordmark centered on black.
-- **Facebook 820×312:** tear band across the middle, wordmark left, bars right.
+### 7.5 Social covers — exact dimensions & safe areas
+
+Run 7.1 as the base, then in Canva add the wordmark + tear + bars + tagline.
+**Only 4 platforms actually have a banner** — the rest are profile-only.
+
+| Platform | Canvas size (px) | Safe area / rule | What shows |
+|---|---|---|---|
+| **YouTube channel art** | `2560×1440` (min `2048×1152`, ≤6MB) | **Center `1546×423`** is the only zone visible on all devices (TV/desktop/mobile) | Test-card pattern full-bleed; wordmark left; bars along the bottom; tagline inside the safe area |
+| **X / Twitter header** | `1500×500` | Keep key content in the center; profile pic overlaps bottom-left | Bars strip; wordmark centered on black |
+| **Bluesky banner** | `1500×500` | Center-weighted | Same as X |
+| **Facebook Page cover** | `820×312` (desktop) · `640×360` (mobile) | Keep text in the **center `640×312`** | Tear band across the middle; wordmark left; bars right |
+| **LinkedIn Page cover** | `1128×191` | Center-weighted | Bars + wordmark (optional) |
+
+**Platforms with NO banner** (profile + bio only): TikTok, Instagram, Threads,
+Pinterest. For Instagram, build **5 Highlight covers at `1080×1920`** (design
+inside a circle — only the center circle shows).
+
+### 7.6 Video & thumbnail dimensions
+
+| Asset | Size (px) | Notes |
+|---|---|---|
+| Video (all short-form) | `1080×1920` (9:16) | H.264, ≥8 Mbps |
+| YouTube long-form thumbnail | `1280×720` | Wordmark bottom-left, 2–3 word overlay |
+| Shorts / Reels / TikTok cover | `1080×1920` | Keep text in the top 2/3; UI covers the bottom |
+| Watermark | `400×125` | Logo PNG, 40% opacity, bottom-right |
 
 ### 7.6 Avatar
 Do **not** generate the avatar with AI. Build the test card in Canva/Figma to spec
@@ -250,15 +308,17 @@ Check availability: namechk.com.
 
 ### Platform specs
 
-| Platform | Avatar | Banner | Bio limit | Priority |
+| Platform | Avatar (px) | Cover (px) | Bio limit | Priority |
 |---|---|---|---|---|
 | TikTok | 200×200 | — | 80 | 1 |
-| YouTube | 800×800 | 2560×1440 | 1000 | 2 |
-| Instagram | 320×320 | — | 150 | 3 |
-| Facebook Page | 320×320 | 820×312 | 255 | 3 |
+| YouTube | 800×800 | 2560×1440 (safe 1546×423) | 1000 | 2 |
+| Instagram | 320×320 | — (5 Highlights @ 1080×1920) | 150 | 3 |
+| Facebook Page | 320×320 | 820×312 (mobile 640×360) | 255 | 3 |
 | X | 400×400 | 1500×500 | 160 | 4 |
 | Bluesky | 400×400 | 1500×500 | 256 | 4 |
 | Threads | 320×320 | — | 150 | 4 |
+| Pinterest | 165×165 | — | 500 | 5 |
+| LinkedIn Page | 300×300 | 1128×191 | 2000 | 5 |
 
 ### Bios
 **Short (TikTok / IG / Threads):**
