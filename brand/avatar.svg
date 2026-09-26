@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="INTERRUPT avatar">
+  <!-- ============================================================
+       INTERRUPT — avatar / mark (starting point)
+       Concept: a broadcast test card sliced by a tracking tear.
+       Reads as "broadcast" at 40px. Rebuild crisply in Canva/Figma
+       for the final export (400x400 PNG).
+       ============================================================ -->
+  <rect width="512" height="512" fill="#0B0B0C"/>
+
+  <!-- rings -->
+  <circle cx="256" cy="256" r="206" fill="none" stroke="#EFE9DC" stroke-width="3"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#EFE9DC" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="256" cy="256" r="92"  fill="none" stroke="#EFE9DC" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- crosshair -->
+  <line x1="256" y1="34"  x2="256" y2="478" stroke="#EFE9DC" stroke-width="1.5" opacity="0.8"/>
+  <line x1="34"  y1="256" x2="478" y2="256" stroke="#EFE9DC" stroke-width="1.5" opacity="0.8"/>
+
+  <!-- diagonal registration marks -->
+  <line x1="150" y1="150" x2="362" y2="362" stroke="#EFE9DC" stroke-width="1" opacity="0.35"/>
+  <line x1="362" y1="150" x2="150" y2="362" stroke="#EFE9DC" stroke-width="1" opacity="0.35"/>
+
+  <!-- center signal dot -->
+  <circle cx="256" cy="256" r="7" fill="#FF3B00"/>
+
+  <!-- tracking tear (color-bar slice) -->
+  <g transform="translate(7,0)">
+    <rect x="0" y="238" width="512" height="34" fill="#0B0B0C"/>
+    <rect x="0"    y="238" width="86" height="34" fill="#EFE9DC"/>
+    <rect x="86"   y="238" width="86" height="34" fill="#FFC400"/>
+    <rect x="172"  y="238" width="86" height="34" fill="#FF3B00"/>
+    <rect x="258"  y="238" width="86" height="34" fill="#1FA97A"/>
+    <rect x="344"  y="238" width="86" height="34" fill="#2D6CDF"/>
+    <rect x="430"  y="238" width="82" height="34" fill="#0B0B0C"/>
+  </g>
+  <line x1="0" y1="237" x2="512" y2="237" stroke="#EFE9DC" stroke-width="1.2" opacity="0.6"/>
+  <line x1="0" y1="273" x2="512" y2="273" stroke="#EFE9DC" stroke-width="1.2" opacity="0.6"/>
+
+  <!-- REC indicator -->
+  <circle cx="70" cy="70" r="6" fill="#FF3B00"/>
+  <text x="86" y="77" font-family="'IBM Plex Mono', Consolas, monospace" font-size="22" letter-spacing="3" fill="#EFE9DC">REC</text>
+
+  <!-- timecode -->
+  <text x="256" y="472" text-anchor="middle" font-family="'IBM Plex Mono', Consolas, monospace" font-size="20" letter-spacing="4" fill="#EFE9DC" opacity="0.85">00:00:00:00</text>
+</svg>
