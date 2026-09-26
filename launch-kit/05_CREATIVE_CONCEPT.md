@@ -103,9 +103,10 @@ control room, not a startup landing page.
 ## 4. The logo (new direction)
 
 **Concept:** the wordmark **INTERRUPT** in heavy condensed grotesque (Archivo
-Black), with a **horizontal TEAR slicing through the middle third** — the tear is
-filled with static and a sliver of the color bars, slightly misaligned. The tear
-*is* the interruption. It's meaningful, ownable, and reads at any size.
+Black), sliced by a **torn horizontal reveal** — a ragged, ripped edge showing
+**static on the left and broadcast color bars on the right**. The tear *is* the
+interruption: the word is literally cut by a signal break. Meaningful, ownable,
+and reads at any size.
 
 **Do NOT:** use chromatic aberration / RGB split (that's the old, generic look).
 
@@ -114,18 +115,29 @@ filled with static and a sliver of the color bars, slightly misaligned. The tear
 - Inverse: black on bone.
 - Compact: `INT` + tear (for tiny spaces).
 
-**How to build it (do NOT use AI image models for this):**
-1. Canva or Figma.
-2. Type `INTERRUPT` in Archivo Black, tight tracking, all caps.
-3. Draw a horizontal band across the middle third (≈18% of the cap height).
-4. Inside the band: a static/noise fill + a 4px sliver of the color bars.
-5. Offset the band by ~2% so it reads as a misregistration, not a centered stripe.
-6. Export SVG + transparent PNG (bone-on-black and black-on-bone).
+**How to build it — CRITICAL:**
+> **AI image models CANNOT render the wordmark.** If you generate the whole logo
+> with AI, the letters come out malformed (warped R/U/P, ghosted duplicates). Use
+> AI for the **tear texture only**, then composite **real type** on top.
 
-**Tagline options (pick one):**
-- `WE INTERRUPT THIS FEED` (the primary)
-- `ENGINEER THE FIRST SECOND`
-- `SIGNAL FOUND. PATTERN BROKEN.`
+1. Generate the **tear texture only**: a ragged torn-paper reveal, static on one
+   side, color bars on the other (AI prompt 7.4, or source a real "torn paper +
+   static" texture).
+2. In Canva/Figma, type `INTERRUPT` in Archivo Black, tight tracking, all caps.
+3. Place the tear texture over the middle third and mask it so it reads as a ripped
+   reveal cutting through the letters.
+4. Keep the tear **organic and ragged** — NOT a clean rectangular stripe.
+5. Export SVG + transparent PNG (bone-on-black and black-on-bone).
+
+> A clean rebuild is at `brand/logo-final.svg` — use it as the starting point.
+
+**Tagline system (use all three — don't pick one):**
+
+| Line | Role | Where it lives |
+|---|---|---|
+| `WE INTERRUPT THIS FEED` | Brand line | Logo lockup, intro, outro, bio |
+| `ENGINEER THE FIRST SECOND` | The promise | Landing page, bio, CTAs |
+| `SIGNAL FOUND. PATTERN BROKEN.` | Campaign line | Occasional accent / pinned posts |
 
 ### 4.1 Logo dimensions & exports
 
