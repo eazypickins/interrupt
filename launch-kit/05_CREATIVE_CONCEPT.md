@@ -242,11 +242,42 @@ Dense analog television static, black and white snow, heavy film grain, high
 contrast, full frame, no objects, no text, [ASPECT].
 ```
 
-### 7.4 Tracking tear element
+### 7.4 The tear texture (the signature device — generate this with AI)
+
+This is the ONE piece of the logo you generate with AI. Everything else (the
+wordmark) is real type.
+
+**Prompt A — the full torn reveal (static left + color bars right):**
 ```
-A horizontal band of VHS tracking distortion and static, wavy analog signal tear,
-bone-white and charcoal, isolated on a black background, [ASPECT], no text.
+A close-up of a horizontal torn-paper reveal on a solid dark charcoal background.
+The tear is a ragged, ripped horizontal opening with fibrous, uneven paper edges.
+Inside the opening, the LEFT half shows dense analog TV static (black and white
+snow) and the RIGHT half shows broadcast SMPTE-style color bars (white, yellow,
+cyan, green, magenta, red, blue). Photorealistic, high detail, dramatic contrast,
+the torn edges cast subtle shadows, isolated on the dark background, wide
+horizontal composition, no text.
 ```
+**Negative:** `text, letters, words, clean straight edges, neon, purple gradient, glossy 3D, watermark, logo`
+
+**Prompt B — static only (tileable):**
+```
+Dense analog television static, black and white snow, heavy film grain, high
+contrast, full frame, no objects, no text, seamless.
+```
+
+**Prompt C — color bars only (clean, for Canva):**
+```
+Classic broadcast SMPTE color bars, seven clean vertical bars (white, yellow,
+cyan, green, magenta, red, blue), flat, crisp edges, no text, full frame.
+```
+
+**Workflow:**
+1. Generate Prompt A at high resolution (e.g. 2:1).
+2. In Canva/Figma: place it over the middle of the wordmark.
+3. Mask it so the tear cuts through the letters as a ripped reveal.
+4. If the AI background isn't transparent, set the layer blend to **Multiply** or
+   **Screen** on your charcoal/bone background, or remove the background in Canva.
+5. Keep the edges ragged — reject any generation with clean straight edges.
 
 ### 7.5 Social covers — exact dimensions & safe areas
 
