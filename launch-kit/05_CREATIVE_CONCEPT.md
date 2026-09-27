@@ -344,10 +344,18 @@ All three share the winning mechanic: **look like nothing else in the feed.**
 
 ## 10. Practical setup (retained from v1)
 
-### Handles
-Primary `interrupt`; fallbacks `interrupt.sys`, `engineerthefirstsecond`,
-`interruptai`, `getinterrupt`. Display name everywhere: `INTERRUPT`.
-Check availability: namechk.com.
+### Handles & display names
+**Handle (username):** `interrupt` everywhere; fallbacks `interrupt.sys`,
+`engineerthefirstsecond`, `interruptai`, `getinterrupt`. Check: namechk.com.
+
+**Display name:** `INTERRUPT` on TikTok, YouTube, Instagram, X, Bluesky, Threads.
+
+**Facebook is the exception** — it rejects single generic words as "too broad."
+Use a specific Page name, but keep the handle `@interrupt`:
+- **`INTERRUPT Studio`** (recommended)
+- `INTERRUPT System` (fallback)
+- `INTERRUPT Visuals` / `INTERRUPT Lab` / `INTERRUPT Broadcast` / `INTERRUPT Station`
+- Avoid: `INTERRUPT`, `Interrupt Media`, `Interrupt Digital` (still rejected)
 
 ### Platform specs
 
