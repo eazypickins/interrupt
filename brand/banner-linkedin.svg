@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1128 191" width="1128" height="191" role="img" aria-label="INTERRUPT LinkedIn banner">
+  <!-- LinkedIn Page cover (short). -->
+  <rect width="1128" height="191" fill="#0B0B0C"/>
+  <image href="textures/static.jpg" x="0" y="0" width="1128" height="191" preserveAspectRatio="xMidYMid slice" opacity="0.05"/>
+
+  <g>
+    <rect x="0" y="0" width="188" height="16" fill="#EFE9DC"/>
+    <rect x="188" y="0" width="188" height="16" fill="#FFC400"/>
+    <rect x="376" y="0" width="188" height="16" fill="#FF3B00"/>
+    <rect x="564" y="0" width="188" height="16" fill="#1FA97A"/>
+    <rect x="752" y="0" width="188" height="16" fill="#2D6CDF"/>
+    <rect x="940" y="0" width="188" height="16" fill="#0B0B0C"/>
+  </g>
+
+  <text x="564" y="112" text-anchor="middle"
+        font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"
+        font-size="72" font-weight="900" letter-spacing="2" fill="#EFE9DC">INTERRUPT</text>
+  <text x="564" y="152" text-anchor="middle"
+        font-family="'Courier New', Consolas, monospace"
+        font-size="16" letter-spacing="9" fill="#EFE9DC">WE INTERRUPT THIS FEED</text>
+
+  <g>
+    <rect x="0" y="175" width="188" height="16" fill="#EFE9DC"/>
+    <rect x="188" y="175" width="188" height="16" fill="#FFC400"/>
+    <rect x="376" y="175" width="188" height="16" fill="#FF3B00"/>
+    <rect x="564" y="175" width="188" height="16" fill="#1FA97A"/>
+    <rect x="752" y="175" width="188" height="16" fill="#2D6CDF"/>
+    <rect x="940" y="175" width="188" height="16" fill="#0B0B0C"/>
+  </g>
+</svg>

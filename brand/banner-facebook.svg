@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 312" width="820" height="312" role="img" aria-label="INTERRUPT Facebook cover">
+  <!-- Facebook Page cover. Keep text in the center 640x312. -->
+  <defs>
+    <filter id="keyDark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  2.2 2.2 2.2 0 -0.95"/>
+    </filter>
+  </defs>
+
+  <rect width="820" height="312" fill="#0B0B0C"/>
+  <image href="textures/static.jpg" x="0" y="0" width="820" height="312" preserveAspectRatio="xMidYMid slice" opacity="0.05"/>
+
+  <g>
+    <rect x="0" y="0" width="137" height="20" fill="#EFE9DC"/>
+    <rect x="137" y="0" width="137" height="20" fill="#FFC400"/>
+    <rect x="274" y="0" width="136" height="20" fill="#FF3B00"/>
+    <rect x="410" y="0" width="136" height="20" fill="#1FA97A"/>
+    <rect x="546" y="0" width="136" height="20" fill="#2D6CDF"/>
+    <rect x="682" y="0" width="138" height="20" fill="#0B0B0C"/>
+  </g>
+
+  <text x="410" y="180" text-anchor="middle"
+        font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"
+        font-size="86" font-weight="900" letter-spacing="2" fill="#EFE9DC">INTERRUPT</text>
+  <image href="textures/torn-reveal.jpg" x="60" y="128" width="760" height="52"
+         preserveAspectRatio="none" filter="url(#keyDark)"/>
+  <text x="410" y="235" text-anchor="middle"
+        font-family="'Courier New', Consolas, monospace"
+        font-size="17" letter-spacing="8" fill="#EFE9DC">WE INTERRUPT THIS FEED</text>
+
+  <g>
+    <rect x="0" y="292" width="137" height="20" fill="#EFE9DC"/>
+    <rect x="137" y="292" width="137" height="20" fill="#FFC400"/>
+    <rect x="274" y="292" width="136" height="20" fill="#FF3B00"/>
+    <rect x="410" y="292" width="136" height="20" fill="#1FA97A"/>
+    <rect x="546" y="292" width="136" height="20" fill="#2D6CDF"/>
+    <rect x="682" y="292" width="138" height="20" fill="#0B0B0C"/>
+  </g>
+</svg>

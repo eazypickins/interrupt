@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440" role="img" aria-label="INTERRUPT YouTube banner">
+  <!-- YouTube channel art. Safe area: center 1546x423. -->
+  <defs>
+    <filter id="keyDark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  2.2 2.2 2.2 0 -0.95"/>
+    </filter>
+  </defs>
+
+  <rect width="2560" height="1440" fill="#0B0B0C"/>
+  <image href="textures/static.jpg" x="0" y="0" width="2560" height="1440" preserveAspectRatio="xMidYMid slice" opacity="0.05"/>
+
+  <!-- top bars -->
+  <g>
+    <rect x="0" y="0" width="427" height="38" fill="#EFE9DC"/>
+    <rect x="427" y="0" width="427" height="38" fill="#FFC400"/>
+    <rect x="854" y="0" width="426" height="38" fill="#FF3B00"/>
+    <rect x="1280" y="0" width="426" height="38" fill="#1FA97A"/>
+    <rect x="1706" y="0" width="426" height="38" fill="#2D6CDF"/>
+    <rect x="2132" y="0" width="428" height="38" fill="#0B0B0C"/>
+  </g>
+
+  <!-- registration marks -->
+  <line x1="2200" y1="150" x2="2200" y2="260" stroke="#EFE9DC" stroke-width="3" opacity="0.4"/>
+  <line x1="2200" y1="260" x2="2380" y2="260" stroke="#EFE9DC" stroke-width="3" opacity="0.4"/>
+  <line x1="360" y1="1190" x2="360" y2="1300" stroke="#EFE9DC" stroke-width="3" opacity="0.4"/>
+  <line x1="180" y1="1300" x2="360" y2="1300" stroke="#EFE9DC" stroke-width="3" opacity="0.4"/>
+
+  <!-- wordmark + tear (inside safe area) -->
+  <text x="1280" y="770" text-anchor="middle"
+        font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"
+        font-size="240" font-weight="900" letter-spacing="4" fill="#EFE9DC">INTERRUPT</text>
+  <image href="textures/torn-reveal.jpg" x="0" y="628" width="2560" height="150"
+         preserveAspectRatio="none" filter="url(#keyDark)"/>
+  <text x="1280" y="905" text-anchor="middle"
+        font-family="'Courier New', Consolas, monospace"
+        font-size="46" letter-spacing="22" fill="#EFE9DC">WE INTERRUPT THIS FEED</text>
+
+  <!-- bottom bars -->
+  <g>
+    <rect x="0" y="1402" width="427" height="38" fill="#EFE9DC"/>
+    <rect x="427" y="1402" width="427" height="38" fill="#FFC400"/>
+    <rect x="854" y="1402" width="426" height="38" fill="#FF3B00"/>
+    <rect x="1280" y="1402" width="426" height="38" fill="#1FA97A"/>
+    <rect x="1706" y="1402" width="426" height="38" fill="#2D6CDF"/>
+    <rect x="2132" y="1402" width="428" height="38" fill="#0B0B0C"/>
+  </g>
+</svg>

@@ -17,10 +17,17 @@ function loadSvg(file, textures) {
   return Buffer.from(svg);
 }
 
-const TEX = { "textures/torn-reveal.jpg": "torn-reveal.jpg" };
+const TEX = {
+  "textures/torn-reveal.jpg": "torn-reveal.jpg",
+  "textures/static.jpg": "static.jpg",
+};
 const DARK = loadSvg("logo-final.svg", TEX);
 const LIGHT = loadSvg("logo-light.svg", TEX);
 const AVATAR = loadSvg("avatar.svg", {});
+const YT = loadSvg("banner-youtube.svg", TEX);
+const XB = loadSvg("banner-x.svg", TEX);
+const FB = loadSvg("banner-facebook.svg", TEX);
+const LI = loadSvg("banner-linkedin.svg", TEX);
 
 const jobs = [
   [DARK, "logo-dark-2000.png", 2000],
@@ -33,6 +40,10 @@ const jobs = [
   [AVATAR, "avatar-400.png", 400],
   [AVATAR, "avatar-320.png", 320],
   [AVATAR, "avatar-200.png", 200],
+  [YT, "banner-youtube-2560x1440.png", 2560],
+  [XB, "banner-x-1500x500.png", 1500],
+  [FB, "banner-facebook-820x312.png", 820],
+  [LI, "banner-linkedin-1128x191.png", 1128],
 ];
 
 (async () => {
