@@ -40,6 +40,7 @@ const jobs = [
   [AVATAR, "avatar-400.png", 400],
   [AVATAR, "avatar-320.png", 320],
   [AVATAR, "avatar-200.png", 200],
+  [AVATAR, "avatar-150.png", 150],
   [YT, "banner-youtube-2560x1440.png", 2560],
   [XB, "banner-x-1500x500.png", 1500],
   [FB, "banner-facebook-820x312.png", 820],
