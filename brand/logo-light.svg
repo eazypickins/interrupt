@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="1600" height="500" role="img" aria-label="INTERRUPT">
+  <!-- INTERRUPT light lockup. Bone page, charcoal type, knockout over a tear band. -->
+  <defs>
+    <filter id="keyDark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  2.2 2.2 2.2 0 -0.95"/>
+    </filter>
+    <clipPath id="bandClip"><rect x="0" y="190" width="1600" height="90"/></clipPath>
+  </defs>
+
+  <rect width="1600" height="500" fill="#EFE9DC"/>
+
+  <line x1="1400" y1="44" x2="1400" y2="104" stroke="#0B0B0C" stroke-width="2" opacity="0.4"/>
+  <line x1="1400" y1="104" x2="1508" y2="104" stroke="#0B0B0C" stroke-width="2" opacity="0.4"/>
+
+  <!-- tear band -->
+  <rect x="0" y="190" width="1600" height="90" fill="#0B0B0C"/>
+  <image href="textures/torn-reveal.jpg" x="0" y="190" width="1600" height="90"
+         preserveAspectRatio="none" filter="url(#keyDark)"/>
+
+  <!-- wordmark: charcoal on bone, knocked out to bone over the band -->
+  <text x="800" y="312" text-anchor="middle"
+        font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"
+        font-size="220" font-weight="900" letter-spacing="2" fill="#0B0B0C">INTERRUPT</text>
+  <text x="800" y="312" text-anchor="middle" clip-path="url(#bandClip)"
+        font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"
+        font-size="220" font-weight="900" letter-spacing="2" fill="#EFE9DC">INTERRUPT</text>
+
+  <text x="800" y="420" text-anchor="middle"
+        font-family="'Courier New', Consolas, monospace"
+        font-size="32" letter-spacing="14" fill="#0B0B0C">WE INTERRUPT THIS FEED</text>
+
+  <g>
+    <rect x="0" y="474" width="267" height="26" fill="#0B0B0C"/>
+    <rect x="267" y="474" width="267" height="26" fill="#FFC400"/>
+    <rect x="534" y="474" width="266" height="26" fill="#FF3B00"/>
+    <rect x="800" y="474" width="266" height="26" fill="#1FA97A"/>
+    <rect x="1066" y="474" width="266" height="26" fill="#2D6CDF"/>
+    <rect x="1332" y="474" width="268" height="26" fill="#EFE9DC"/>
+  </g>
+</svg>
