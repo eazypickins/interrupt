@@ -20,14 +20,16 @@ it snaps straight into the visual. Never let it run longer than ~0.8s.
 
 ## 1. Asset checklist (build these first)
 
-| Asset | Source | Format |
+**Ready-made still frames are in `brand/exports/` — drop them straight into CapCut:**
+
+| Asset | File | Use |
 |---|---|---|
-| Color bars | `brand/logo.svg` footer bars, or draw 6 rects in Canva | PNG 1080×1920, transparent |
-| Static / snow | AI prompt 7.3 in `05_CREATIVE_CONCEPT.md` | 1s MP4 loop, or CapCut's built-in "Static" |
-| Test card | `brand/avatar.svg` | PNG 1080×1920 (upscale), or rebuild in Canva |
-| Logo (wordmark) | `brand/logo.svg` | PNG transparent (bone-on-black + black-on-bone) |
-| Tear strip | AI prompt 7.4, or draw in Canva | PNG 1080×400, transparent |
-| "PLEASE STAND BY" text | Build in CapCut (IBM Plex Mono) | Text layer |
+| Signal-hit bars frame | `frame-bars-1080x1920.png` | The 0.07–0.13s bars flash |
+| Intro test card | `frame-testcard-1080x1920.png` | 0.30–0.53s "PLEASE STAND BY" card |
+| Outro end card | `frame-endcard-1080x1920.png` | Final 1.2s logo + CTA |
+| REC overlay (transparent) | `overlay-rec-1080x1920.png` | Drop on any video, top-left |
+| Static / snow | `brand/textures/static.jpg` | Transition bursts |
+| Tear texture | `brand/textures/torn-reveal.jpg` | Tear transitions |
 | Sound: signal hit | CapCut SFX: "Glitch", "Camera Flash", "TV Static", "Retro TV" | Audio |
 | Sound: sign-off tone | CapCut SFX: "Sub drop", "Deep whoosh", "VHS" | Audio |
 

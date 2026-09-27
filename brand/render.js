@@ -28,6 +28,10 @@ const YT = loadSvg("banner-youtube.svg", TEX);
 const XB = loadSvg("banner-x.svg", TEX);
 const FB = loadSvg("banner-facebook.svg", TEX);
 const LI = loadSvg("banner-linkedin.svg", TEX);
+const TESTCARD = loadSvg("frame-testcard.svg", TEX);
+const ENDCARD = loadSvg("frame-endcard.svg", TEX);
+const BARS = loadSvg("frame-bars.svg", TEX);
+const REC = loadSvg("overlay-rec.svg", {});
 
 const jobs = [
   [DARK, "logo-dark-2000.png", 2000],
@@ -45,6 +49,10 @@ const jobs = [
   [XB, "banner-x-1500x500.png", 1500],
   [FB, "banner-facebook-820x312.png", 820],
   [LI, "banner-linkedin-1128x191.png", 1128],
+  [TESTCARD, "frame-testcard-1080x1920.png", 1080],
+  [ENDCARD, "frame-endcard-1080x1920.png", 1080],
+  [BARS, "frame-bars-1080x1920.png", 1080],
+  [REC, "overlay-rec-1080x1920.png", 1080],
 ];
 
 (async () => {

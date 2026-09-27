@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920" role="img" aria-label="INTERRUPT signal bars">
+  <!-- Signal-hit bars frame (0.07-0.13s). Full-frame. -->
+  <rect width="1080" height="1920" fill="#0B0B0C"/>
+  <g>
+    <rect x="0" y="0" width="180" height="1920" fill="#EFE9DC"/>
+    <rect x="180" y="0" width="180" height="1920" fill="#FFC400"/>
+    <rect x="360" y="0" width="180" height="1920" fill="#FF3B00"/>
+    <rect x="540" y="0" width="180" height="1920" fill="#1FA97A"/>
+    <rect x="720" y="0" width="180" height="1920" fill="#2D6CDF"/>
+    <rect x="900" y="0" width="180" height="1920" fill="#0B0B0C"/>
+  </g>
+  <image href="textures/static.jpg" x="0" y="0" width="1080" height="1920" preserveAspectRatio="xMidYMid slice" opacity="0.25"/>
+</svg>

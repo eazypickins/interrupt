@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920" role="img" aria-label="INTERRUPT REC overlay">
+  <!-- Transparent REC + timecode overlay. Drop on top of any video. -->
+  <circle cx="90" cy="220" r="13" fill="#FF3B00"/>
+  <text x="120" y="234" font-family="'Courier New', Consolas, monospace" font-size="40" letter-spacing="4" fill="#EFE9DC">REC</text>
+  <text x="90" y="292" font-family="'Courier New', Consolas, monospace" font-size="32" letter-spacing="4" fill="#EFE9DC" opacity="0.85">00:00:00:00</text>
+</svg>
