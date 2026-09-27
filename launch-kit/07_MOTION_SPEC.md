@@ -139,6 +139,58 @@ every single post. That repetition is what makes a faceless AI channel read as a
 
 ---
 
+## 7.5 AI video prompts for the intro/outro motion
+
+Generate these short clips with **Veo / Kling / Runway**, then use them as overlays and
+transitions in CapCut. **AI video makes the motion; the still frames make the text.**
+
+**Prompt 1 — Static burst (0.5s loop)**
+```
+Dense analog television static filling the frame, black and white snow, heavy film
+grain, rapid flickering, occasional horizontal glitch lines, no objects, no text,
+seamless loop, 9:16 vertical.
+```
+**Negative:** `color, objects, text, smooth motion, watermark`
+
+**Prompt 2 — CRT scanline flicker (loop, overlay)**
+```
+A subtle CRT television screen flicker: horizontal scanlines drifting slowly
+downward, faint phosphor glow pulsing, slight vignette, dark charcoal tone, no
+content, seamless loop, 9:16 vertical.
+```
+**Negative:** `text, objects, bright colors, fast motion, watermark`
+
+**Prompt 3 — Torn reveal / signal tear (the signature transition)**
+```
+A horizontal tear rips open across a dark charcoal surface, revealing static and
+broadcast color bars behind it, the torn paper edges peeling and trembling, dust
+particles, dramatic lighting, slow motion, locked camera, 9:16 vertical.
+```
+**Negative:** `text, clean straight edges, neon, camera drift, watermark`
+
+**Prompt 4 — Color-bar glitch flash (0.3s)**
+```
+Broadcast SMPTE color bars flash on screen and immediately glitch with RGB split
+and horizontal tearing, then cut to black, harsh, fast, 9:16 vertical.
+```
+**Negative:** `text, slow motion, soft, watermark`
+
+**Prompt 5 — CRT switch-on (intro alternative)**
+```
+A vintage CRT television switching on: a bright horizontal white line expands into
+a glowing screen filled with static, then settles, warm phosphor glow, film grain,
+locked camera, 9:16 vertical.
+```
+**Negative:** `text, objects, color, watermark`
+
+**How to use them:**
+- **Intro:** `frame-bars` still (2 frames) → Prompt 1 static clip (4 frames) → `frame-testcard` still (with a Prompt 2 scanline clip overlaid) → Prompt 3 tear → content.
+- **Transitions:** use Prompt 1 or Prompt 3 between shots.
+- **Overlay:** loop Prompt 2 at ~15% opacity over the whole video for CRT texture.
+- Keep every clip **short** (0.3–0.5s) — these are flashes, not sequences.
+
+---
+
 ## 8. QA checklist (run before exporting every post)
 
 - [ ] Intro ≤ 0.8s
