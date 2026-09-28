@@ -14,6 +14,10 @@ Overlay 1:                          [scanlines......][REC overlay..........][sca
 
 ---
 
+## How long is this?
+- **Intro: ~0.6 seconds** · **Outro: ~1.2 seconds** · **Combined: ~1.8 seconds**
+- Seconds, not minutes — on purpose. A long intro kills retention. This is a flash.
+
 ## 0. Before you start
 
 1. Open CapCut → **New project**.

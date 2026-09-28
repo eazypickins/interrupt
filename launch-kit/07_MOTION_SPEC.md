@@ -189,6 +189,23 @@ locked camera, 9:16 vertical.
 - **Overlay:** loop Prompt 2 at ~15% opacity over the whole video for CRT texture.
 - Keep every clip **short** (0.3–0.5s) — these are flashes, not sequences.
 
+**Shortcut — one "broadcast glitch pack" clip:** if you'd rather generate once, use
+this single prompt to get a 5–8s glitch sequence, then **cut it up** in CapCut for
+the bars/static/scanline/tear pieces:
+
+```
+A vintage television signal being interrupted: broadcast SMPTE color bars flash on
+screen, then the screen erupts into dense analog static with flickering scanlines,
+the image tears open horizontally revealing static and color bars behind it, glitch
+artifacts, RGB split, warm phosphor glow, heavy film grain, harsh analog broadcast
+aesthetic, dark charcoal tones, locked camera, no text, no logos, 9:16 vertical.
+```
+**Negative:** `text, logos, watermark, neon purple, glossy 3D, camera drift`
+
+**Trade-off:** the pack is faster to generate but you lose exact timing and can't
+reuse elements as cleanly — you'll still slice it into separate pieces. Best of both:
+generate the pack, then trim the tear out and save it separately for transitions.
+
 ---
 
 ## 8. QA checklist (run before exporting every post)
