@@ -189,6 +189,33 @@ locked camera, 9:16 vertical.
 - **Overlay:** loop Prompt 2 at ~15% opacity over the whole video for CRT texture.
 - Keep every clip **short** (0.3–0.5s) — these are flashes, not sequences.
 
+### The INTRO video prompt (generate 5–8s, then trim the best ~0.6s)
+
+```
+A vintage television signal being interrupted: broadcast SMPTE color bars flash on
+screen for a split second, then the screen erupts into dense analog static with
+flickering scanlines, then settles into a calm test pattern, then a horizontal tear
+rips across the frame revealing static and color bars, glitch artifacts, RGB split,
+warm phosphor glow, heavy film grain, harsh analog broadcast aesthetic, dark
+charcoal tones, locked camera, no text, no logos, 9:16 vertical.
+```
+**Negative:** `text, logos, watermark, neon purple, glossy 3D, camera drift`
+
+### The OUTRO video prompt (generate 5–8s, then trim the best ~1.2s)
+
+```
+A vintage CRT television signing off: the screen flickers with static, the image
+collapses into a single bright horizontal white line, then the line shrinks to a
+glowing dot and fades to black, warm phosphor afterglow, heavy film grain, scanlines,
+dark charcoal tones, locked camera, no text, no logos, 9:16 vertical.
+```
+**Negative:** `text, logos, watermark, bright colors, camera drift`
+
+**Note:** AI generates the *motion* only. The "PLEASE STAND BY" text, test card and
+end card are stills you add on top in CapCut. The intro/outro you build from
+`frame-bars`, `frame-testcard`, `frame-endcard` is the controlled, on-brand version —
+use the AI clips above as an alternative or as extra texture.
+
 **Shortcut — one "broadcast glitch pack" clip:** if you'd rather generate once, use
 this single prompt to get a 5–8s glitch sequence, then **cut it up** in CapCut for
 the bars/static/scanline/tear pieces:
