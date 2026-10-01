@@ -1,7 +1,8 @@
-# INTERRUPT — Posts 01–20 (Omni / Veo Production Scripts)
+# INTERRUPT — Posts 01–30 (Omni / Veo Production Scripts)
 
-Combined from `01_FIRST_10_POST_SCRIPTS.md` and `04_POSTS_11-20.md`, reformatted
-clip-by-clip for AI video generation (Google Omni / Veo).
+The complete 30-post launch library, reformatted clip-by-clip for AI video
+generation (Google Omni / Veo). Posts 1–20 were consolidated from the original
+`01_FIRST_10_POST_SCRIPTS.md` and `04_POSTS_11-20.md`.
 
 ---
 
@@ -683,3 +684,359 @@ Not every post uses all five — adapt as noted.
 - **Proof clips** use real screenshots — frame them with the REC overlay.
 - **Batch by category:** generate all the "floating object" clips in one session, etc.
 - **Intro (0.6s) before Clip 1, outro (1.2s) after the last clip** — same on every post.
+
+---
+
+# POST 21 — "Stop Guessing, Start Interrupting"
+**Pillar:** Conversion · **Pattern interrupt:** Split-screen contrast · **Hook:** "Guess and hope, or pick from 12 categories." · **Length:** ~22s
+
+**Clip 1 | 0:00–0:05 | 5 sec**
+- **Visual (Omni):** `A split-screen: on the left, a frustrated person staring at a blank caption box, desaturated gray; on the right, a red apple floating in mid-air mid-render, vivid with orange rim light, dark charcoal background, locked camera, 9:16 vertical.`
+- **Overlay:** `Guessing.` (left) · `Engineering.` (right)
+- **Narration:** "Two options for your next hook."
+
+**Clip 2 | 0:05–0:10 | 5 sec**
+- **Visual:** Split-screen, left side fades to gray.
+- **Overlay:** `12 categories. One decision framework. Zero guessing.`
+- **Narration:** "Guess and hope, or pick from 12 categories that already work."
+
+**Clip 3 | 0:10–0:16 | 6 sec**
+- **Visual (Omni):** `A rapid montage of six distinct surreal AI visuals — floating objects, glitch effects, mirrors, sand figures, impossible physics — dark charcoal backgrounds, orange rim light, 9:16 vertical.`
+- **Overlay:** none
+- **Narration:** "The free guide has the second option."
+
+**Clip 4 | 0:16–0:22 | 6 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Get the free INTERRUPT guide.`
+- **Narration:** "Free guide, link in bio."
+
+**Post Text:** Two options for your next hook: 1. Guess and hope. 2. Pick from 12 categories that already work. Free guide has the second option. Link below.
+**Comments:**
+1. "It's genuinely free — no email drip funnel, no upsell wall before you get the PDF. Just the system."
+2. "Be honest — do you guess your hooks or plan them?"
+3. "Which would you rather have: more ideas, or a system for choosing?"
+
+---
+
+# POST 22 — "Your Hook Is Costing You the Video"
+**Pillar:** Pain · **Pattern interrupt:** Loss aversion · **Hook:** "This isn't an algorithm problem." · **Length:** ~22s
+
+**Clip 1 | 0:00–0:05 | 5 sec**
+- **Visual:** REAL analytics screenshot (viewership dropping sharply in the first 2 seconds).
+- **Overlay:** `This isn't an algorithm problem.`
+- **Narration:** "This isn't an algorithm problem."
+
+**Clip 2 | 0:05–0:10 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `It's a first-frame problem.`
+- **Narration:** "It's a first-frame problem."
+
+**Clip 3 | 0:10–0:16 | 6 sec**
+- **Visual (Omni):** `A single object in a quiet, empty room, subtly glitching and flickering with RGB color-split, otherwise completely still and calm, minimal muted lighting, locked camera, 9:16 vertical, photoreal.`
+- **Negative:** `chaotic motion, fast cuts, camera shake, camera drift, text, watermark`
+- **Overlay:** `Same video quality. Different opening frame. Different outcome.`
+- **Narration:** "Same video quality. Different opening frame. Different outcome."
+
+**Clip 4 | 0:16–0:22 | 6 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Fix the first second — free guide below.`
+- **Narration:** "If retention craters at second two, nobody's there for the rest. Free guide, link in bio."
+
+**Post Text:** Your retention graph doesn't lie. If it drops in the first 2 seconds, that's not an algorithm problem. That's a first-frame problem. Free fix, link below.
+**Comments:**
+1. "Pull up your own analytics right now and check where the drop-off actually happens. It's almost always in the first 2 seconds."
+2. "Where does YOUR retention graph drop?"
+3. "Did you blame the algorithm before the first frame?"
+
+---
+
+# POST 23 — "One Color"
+**Pillar:** Demo · **Category 11: Light & Color** · **Pattern interrupt:** Signal salience · **Hook:** "Black and white. Except one flower." · **Length:** ~20s
+
+**Clip 1 | 0:00–0:06 | 6 sec**
+- **Visual (Omni):** `An entire garden scene fully desaturated in black and white, except one single flower that remains in brilliant saturated red, drawing the eye instantly, locked camera, no zoom pan tilt or rotation, soft natural light, 9:16 vertical, photoreal, high contrast.`
+- **Negative:** `color everywhere, multiple colored objects, camera drift, motion, blurry, text, watermark`
+- **Overlay:** none
+- **Narration:** (music only)
+
+**Clip 2 | 0:06–0:11 | 5 sec**
+- **Visual:** Charcoal background with scanlines.
+- **Overlay:** `CATEGORY 11 — LIGHT & COLOR`
+- **Narration:** "The eye goes to the most different thing in the frame. Every time."
+
+**Clip 3 | 0:11–0:15 | 4 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `Most feeds are bright and evenly lit.`
+- **Narration:** "Most feeds are bright and evenly lit — a desaturated frame with one point of color looks like nothing else in the scroll."
+
+**Clip 4 | 0:15–0:20 | 5 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Free guide has the other 11.`
+- **Narration:** "Free guide has the other 11. Link in bio."
+
+**Post Text:** Black and white. Except one flower. That's the entire hook — contrast the eye can't skip past. Category 11 of 12. Free guide below.
+**Comments:**
+1. "This works because most feeds are bright and evenly lit — a desaturated frame with one point of color looks nothing like what came before it."
+2. "What colour would you keep?"
+3. "Did your eye go straight to the flower?"
+
+---
+
+# POST 24 — "The Switch"
+**Pillar:** Demo · **Category 10: Emotion & Expectation** · **Pattern interrupt:** Bait and switch · **Hook:** "Looks glamorous. Pull back — it's not." · **Length:** ~20s
+
+**Clip 1 | 0:00–0:06 | 6 sec**
+- **Visual (Omni):** `A glamorous, polished lifestyle shot that suddenly pulls back hard to reveal a cramped, ordinary home setup — the illusion breaking instantly, final frame locked, 9:16 vertical, photoreal, warm glamorous light transitioning to flat ordinary light.`
+- **Negative:** `no pullback, single static angle, camera shake, blurry final frame, text, watermark`
+- **Overlay:** none
+- **Narration:** "Looks glamorous."
+
+**Clip 2 | 0:06–0:11 | 5 sec**
+- **Visual:** Charcoal background with scanlines.
+- **Overlay:** `CATEGORY 10 — EMOTION & EXPECTATION`
+- **Narration:** "Pull back — it's not. That gap between setup and reality is the entire hook."
+
+**Clip 3 | 0:11–0:16 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `The setup has to be instantly readable, or the twist has no power.`
+- **Narration:** "The setup has to be instantly readable, or the twist has no power."
+
+**Clip 4 | 0:16–0:20 | 4 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Free guide below.`
+- **Narration:** "Free guide, link in bio."
+
+**Post Text:** Looks glamorous. Pull back — it's not. That gap between setup and reality is the entire hook. Category 10 of 12, free guide below.
+**Comments:**
+1. "The setup has to be instant and obvious — a smile, a 'luxury' label, a cliché — or the audience never registers what got subverted."
+2. "Did the pull-back catch you off guard?"
+3. "What 'glamorous' setup would you subvert?"
+
+---
+
+# POST 25 — "The Loop Your Brain Can't Close"
+**Pillar:** Teach / Psychology · **Pattern interrupt:** Curiosity gap · **Hook:** "A door cracked open. Nothing shown yet." · **Length:** ~24s
+
+**Clip 1 | 0:00–0:06 | 6 sec**
+- **Visual (Omni):** `A single wooden door slightly ajar, warm light spilling through the crack, nothing revealed beyond it, dark surrounding space, static, locked camera, no zoom pan tilt or rotation, cinematic, 9:16 vertical, photoreal.`
+- **Negative:** `door wide open, reveal, camera movement, blurry, text, watermark`
+- **Overlay:** none
+- **Narration:** "A door cracked open. Nothing shown yet."
+
+**Clip 2 | 0:06–0:11 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `An unanswered question is a puzzle your brain has to close.`
+- **Narration:** "An unanswered question is a puzzle your brain has to close."
+
+**Clip 3 | 0:11–0:16 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `That's an open loop — the third trigger behind every scroll-stop.`
+- **Narration:** "That's an open loop — the third trigger behind every scroll-stop."
+
+**Clip 4 | 0:16–0:20 | 4 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `Reality violation. Signal salience. Open loop.`
+- **Narration:** "Reality violation. Signal salience. Open loop."
+
+**Clip 5 | 0:20–0:24 | 4 sec**
+- **Visual:** End-card style.
+- **Overlay:** `All three, explained free.`
+- **Narration:** "All three, explained free. Link in bio."
+
+**Post Text:** A door cracked open. Nothing shown yet. Your brain won't let you leave until it knows what's behind it. That's an open loop. One of 3 triggers — free breakdown below.
+**Comments:**
+1. "The mistake most people make with open loops: they never close them. Leave your audience unsatisfied too often and they stop trusting the hook."
+2. "Did you want to see behind the door?"
+3. "Which of the 3 triggers do you use most?"
+
+---
+
+# POST 26 — "What If You Never Had to Film Again?" (DFY)
+**Pillar:** Conversion (DFY) · **Pattern interrupt:** Aspirational · **Hook:** "What if you didn't have to run any of it yourself?" · **Length:** ~40s ← exception (needs persuasion room)
+
+**Clip 1 | 0:00–0:06 | 6 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `You know the 12 categories now.`
+- **Narration:** "You know the 12 categories now."
+
+**Clip 2 | 0:06–0:12 | 6 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `You have 200+ prompts.`
+- **Narration:** "You have 200+ prompts."
+
+**Clip 3 | 0:12–0:18 | 6 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `What if you didn't have to run any of it yourself?`
+- **Narration:** "What if you didn't have to run any of it yourself?"
+
+**Clip 4 | 0:18–0:26 | 8 sec**
+- **Visual (Omni):** `A montage of finished short-form videos playing on a phone screen, scheduled and posted, hands-off framing, dark charcoal background, warm orange glow, 9:16 vertical.`
+- **Overlay:** `Hooks picked. Videos made. Posts scheduled.`
+- **Narration:** "We apply the method to your handles directly — hooks picked, videos made, posts scheduled."
+
+**Clip 5 | 0:26–0:34 | 8 sec**
+- **Visual:** Charcoal background with the offer.
+- **Overlay:** `$150/month. Limited spots.`
+- **Narration:** "If you'd rather skip execution entirely, we run the INTERRUPT method on your handles directly."
+
+**Clip 6 | 0:34–0:40 | 6 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Email to apply. A real person replies.`
+- **Narration:** "150 dollars a month, limited spots. Email to apply — a real person replies to every application."
+
+**Post Text:** Know the system but don't have time to run it? We'll run it for you — hooks, videos, captions, posting. All of it. $150/month, limited spots. Email denorgerald@gmail.com to apply.
+**Comments:**
+1. "This isn't a course or another PDF — it's us doing the actual posting on your account. A real person replies to every application."
+2. "Would you rather learn the system or have it run for you?"
+3. "What stops you from posting consistently — time, ideas, or editing?"
+
+---
+
+# POST 27 — "The Screenshot I Almost Didn't Post"
+**Pillar:** Proof (honest numbers) · **Pattern interrupt:** Vulnerability + proof · **Hook:** "Most of my posts get 1,000–2,000 views. Not 500K." · **Length:** ~30s ← exception
+
+**Clip 1 | 0:00–0:06 | 6 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `Most of my posts get 1,000–2,000 views. Not 500K.`
+- **Narration:** "Most of my posts get 1,000 to 2,000 views. Not 500K."
+
+**Clip 2 | 0:06–0:12 | 6 sec**
+- **Visual:** REAL screenshot (a normal-performing post, ~1,723 views).
+- **Overlay:** `1,723 views`
+- **Narration:** "I almost didn't share this one because it's not the viral outlier."
+
+**Clip 3 | 0:12–0:18 | 6 sec**
+- **Visual:** REAL screenshot held, unedited.
+- **Overlay:** `But it's the honest number.`
+- **Narration:** "But it's the honest number. Most posts using this system land here."
+
+**Clip 4 | 0:18–0:24 | 6 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `The system doesn't promise a viral hit every time. It promises a better first second.`
+- **Narration:** "The system doesn't promise a viral hit every time. It promises a better first second."
+
+**Clip 5 | 0:24–0:30 | 6 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Free guide below.`
+- **Narration:** "Free guide, link in bio."
+
+**Post Text:** Honest post: most of my videos get 1–2K views, not 500K. The system isn't a virality guarantee — it's a better first second, every time. That's still worth having. Free guide below.
+**Comments:**
+1. "I'd rather show you the boring, typical result than only the one outlier post — that's the honest picture of what this actually does."
+2. "Do you trust creators who only show their viral outliers?"
+3. "What's your typical view count?"
+
+---
+
+# POST 28 — "The 3-Second Rule"
+**Pillar:** Teach / Framework · **Pattern interrupt:** Framework reveal · **Hook:** "0 to 0.8 seconds: Interrupt." · **Length:** ~26s
+
+**Clip 1 | 0:00–0:05 | 5 sec**
+- **Visual:** Charcoal background (JetBrains Mono text in CapCut).
+- **Overlay:** `0 to 0.8 seconds: Interrupt.`
+- **Narration:** "0 to 0.8 seconds: Interrupt."
+
+**Clip 2 | 0:05–0:10 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `0.8 to 1.5 seconds: Identity.`
+- **Narration:** "0.8 to 1.5 seconds: Identity."
+
+**Clip 3 | 0:10–0:15 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `1.5 to 3 seconds: Open loop.`
+- **Narration:** "1.5 to 3 seconds: Open loop."
+
+**Clip 4 | 0:15–0:21 | 6 sec**
+- **Visual (Omni):** `A rapid montage of surreal pattern-interrupt visuals — a floating object, a glitch, a mirror — dark charcoal backgrounds, orange rim light, 9:16 vertical.`
+- **Overlay:** `Break reality. Make it personal. Leave it unresolved.`
+- **Narration:** "Break reality. Make it personal. Leave it unresolved."
+
+**Clip 5 | 0:21–0:26 | 5 sec**
+- **Visual:** End-card style.
+- **Overlay:** `The full breakdown is free.`
+- **Narration:** "That's the entire architecture of a hook that holds. Full breakdown free, link in bio."
+
+**Post Text:** The full hook architecture, in one post: 0–0.8s: break reality. 0.8–1.5s: make it personal. 1.5–3s: leave it open. That's the whole formula. Free guide below.
+**Comments:**
+1. "Most people only nail step one and wonder why watch time still drops at second 2 — the interrupt only buys you the first look, not the whole watch."
+2. "Which of the three steps do you skip?"
+3. "Screenshot this?"
+
+---
+
+# POST 29 — "The Free Guide Everyone's Screenshotting"
+**Pillar:** Conversion · **Pattern interrupt:** Social proof + urgency · **Hook:** "No email drip. No 5-day challenge. Just the PDF." · **Length:** ~22s
+
+**Clip 1 | 0:00–0:05 | 5 sec**
+- **Visual:** Screen recording — scrolling the free guide's table of contents (12 categories visible).
+- **Overlay:** `No email drip. No 5-day challenge. Just the PDF.`
+- **Narration:** "No email drip. No 5-day challenge. Just the PDF."
+
+**Clip 2 | 0:05–0:10 | 5 sec**
+- **Visual:** Screen recording continues.
+- **Overlay:** `12 categories. Real psychology.`
+- **Narration:** "This is the free guide people keep screenshotting and sending to their group chats."
+
+**Clip 3 | 0:10–0:16 | 6 sec**
+- **Visual:** Screen recording, hold on the TOC.
+- **Overlay:** `It's free because the value is in using it.`
+- **Narration:** "It's free because the real value is in using it, not reading it once."
+
+**Clip 4 | 0:16–0:22 | 6 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Takes 30 seconds to get.`
+- **Narration:** "Takes 30 seconds to get. Link in bio."
+
+**Post Text:** This is the free guide people keep screenshotting and sending to their group chats. 12 categories. Real psychology. No catch. Link below, takes 30 seconds.
+**Comments:**
+1. "If you've been putting off grabbing this — it's genuinely just the PDF, no funnel behind it. Link's below."
+2. "Have you sent this to anyone yet?"
+3. "What's stopped you from grabbing it so far?"
+
+---
+
+# POST 30 — "Engineer the First Second"
+**Pillar:** Brand / Conversion · **Pattern interrupt:** Identity trigger · **Hook:** "STOP." · **Length:** ~24s
+
+**Clip 1 | 0:00–0:04 | 4 sec**
+- **Visual:** Black screen (text in CapCut).
+- **Overlay:** `STOP.`
+- **Narration:** "You can't guarantee virality."
+
+**Clip 2 | 0:04–0:10 | 6 sec**
+- **Visual (Omni):** `A rapid montage of strange, unexpected surreal visuals — floating objects, impossible physics, glitches, mirrors — dark charcoal backgrounds, orange rim light, 9:16 vertical.`
+- **Overlay:** none
+- **Narration:** "You don't need to make people watch everything. You need to give them a reason to watch the next second."
+
+**Clip 3 | 0:10–0:15 | 5 sec**
+- **Visual:** Charcoal background.
+- **Overlay:** `NOTICE. WONDER. STAY.`
+- **Narration:** "Notice. Wonder. Stay."
+
+**Clip 4 | 0:15–0:20 | 5 sec**
+- **Visual (Omni):** `A montage of the channel's best-performing frames — floating objects, glitches, impossible visuals — dark charcoal backgrounds, 9:16 vertical.`
+- **Overlay:** `INTERRUPT — Engineer the first second.`
+- **Narration:** "But you can engineer the first second."
+
+**Clip 5 | 0:20–0:24 | 4 sec**
+- **Visual:** End-card style.
+- **Overlay:** `Get the free 12 Scroll Interrupters.`
+- **Narration:** "Get the free 12 Scroll Interrupters. Link in bio."
+
+**Post Text:** You can't guarantee virality. But you can engineer the first second. NOTICE → WONDER → STAY. That's the philosophy behind INTERRUPT. Get the free 12 Scroll Interrupters.
+**Comments:**
+1. "Your next video doesn't need a better caption. It might need a better first second. Start here: Engineer the first second."
+2. "What's the last video that made you stop and wonder?"
+3. "Follow for 12 ways to engineer the first second."
+
+---
+
+## RUNNING ORDER (Weeks 5–6)
+
+**Week 5:** 21 (conversion), 22 (pain), 23 (color demo), 24 (emotion demo), 25 (psychology)
+**Week 6:** 26 (DFY), 27 (honest proof), 28 (framework), 29 (free guide), 30 (brand close)
+
+**Length policy:** most posts are 20–26s. **Post 26 (DFY) runs ~40s** and **Post 27 (honest proof) runs ~30s** — the two exceptions that need persuasion/setup room.
+
+After Week 6: review the tracker, double down on the best category, and recycle the
+strongest demos with fresh visuals.

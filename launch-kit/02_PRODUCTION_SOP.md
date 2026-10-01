@@ -23,7 +23,7 @@ purpose — this is what protects you from a single tool shutting down (the Sora
 
 ## 1. Per-post workflow
 
-1. **Pick the post** from `01_FIRST_10_POST_SCRIPTS.md` (or the 30-post calendar).
+1. **Pick the post** from `POSTS_01-30_OMNI.md` (the full 30-post library).
 2. **Copy the AI prompt.** Append the category negative prompt.
 3. **Generate 2–3 takes** on Veo and/or Kling.
 4. **Review takes against the QA checklist (§4).** Reject camera drift immediately.
