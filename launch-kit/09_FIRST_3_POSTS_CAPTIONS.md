@@ -24,7 +24,7 @@ Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 
 **Caption — YouTube Shorts**
 ```
-You don't have a content problem — you have a first-second problem. These are the 12 visual patterns that stop the scroll in the first 0.8 seconds. Free guide in the description.
+You don't have a content problem — you have a first-second problem. These are the 12 visual patterns that stop the scroll in the first 0.8 seconds. Free guide in the description. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 ```
 
 **Hashtags**
@@ -54,7 +54,7 @@ Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 
 **Caption — YouTube Shorts**
 ```
-Why does a floating apple stop the scroll? Because your brain checks reality in 50 milliseconds — and can't move on until it resolves the error. This is Category 1 of 12 in the free INTERRUPT guide.
+Why does a floating apple stop the scroll? Because your brain checks reality in 50 milliseconds — and can't move on until it resolves the error. This is Category 1 of 12 in the free INTERRUPT guide. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 ```
 
 **Hashtags**
@@ -84,7 +84,7 @@ Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 
 **Caption — YouTube Shorts**
 ```
-This post hit 574,688 views and 614 new followers. The mechanism wasn't the fact — it was an "impossible view" effect the eye should never see. That's Category 7: Impossible Objects. Free guide in the description.
+This post hit 574,688 views and 614 new followers. The mechanism wasn't the fact — it was an "impossible view" effect the eye should never see. That's Category 7: Impossible Objects. Free guide in the description. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 ```
 
 **Hashtags**
