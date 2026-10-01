@@ -19,6 +19,7 @@ You need a better first second.
 That's it. That's the whole game.
 
 Free guide — 12 categories that stop the scroll. Link in bio.
+Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 ```
 
 **Caption — YouTube Shorts**
@@ -48,6 +49,7 @@ An apple that won't fall. That's the whole hook.
 No music drop, no jump cut — just one broken expectation.
 
 This is Category 1 of 12. Free guide linked below.
+Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 ```
 
 **Caption — YouTube Shorts**
@@ -77,6 +79,7 @@ The exact prompt (camera settings, negative prompts, all of it) is in the free g
 The hook: showing something the eye should never see.
 
 That's 1 of 12 categories in the free guide.
+Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 ```
 
 **Caption — YouTube Shorts**

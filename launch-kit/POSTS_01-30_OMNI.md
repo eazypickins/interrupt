@@ -62,7 +62,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `12 ways to build that first frame — free.`
 - **Narration:** "12 ways to build that first frame. Free guide, link in bio."
 
-**Post Text:** You don't need better content. You need a better first second. That's the whole game. Free guide — 12 categories that stop the scroll.
+**Post Text:** You don't need better content. You need a better first second. That's the whole game. Free guide — 12 categories that stop the scroll. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "If your average watch time drops off in the first 2 seconds, this is worth 5 minutes. It's free."
 2. "What's the longest you've spent on a video that still flopped?"
@@ -94,7 +94,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `This is 1 of 200+ prompts. Free guide → other 11 categories.`
 - **Narration:** "This is 1 of 200+ prompts. Free guide, link in bio."
 
-**Post Text:** An apple that won't fall. That's the whole hook. No music drop, no jump cut — just one broken expectation. Category 1 of 12. Free guide linked below.
+**Post Text:** An apple that won't fall. That's the whole hook. No music drop, no jump cut — just one broken expectation. Category 1 of 12. Free guide linked below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The exact prompt (camera settings, negative prompts, all of it) is in the free guide. Takes 2 minutes to grab."
 2. "What's the first thing your eye caught — the apple or the shadow?"
@@ -125,7 +125,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `12 categories. Free.`
 - **Narration:** "12 categories, free. Link in bio."
 
-**Post Text:** 574,688 views. 614 new follows. One post, real account. The hook: showing something the eye should never see. That's 1 of 12 categories in the free guide.
+**Post Text:** 574,688 views. 614 new follows. One post, real account. The hook: showing something the eye should never see. That's 1 of 12 categories in the free guide. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Screenshots (unedited) are on the landing page if you want to verify before you believe it — link's in bio."
 2. "What would you want to see the inside of?"
@@ -159,7 +159,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `This exact prompt is in the free guide.`
 - **Narration:** "This exact prompt is in the free guide."
 
-**Post Text:** A door. In a field. That opens onto a beach. The absurdity of "where it is" vs "what it is" — that's the whole trick. Category 7, free guide, link below.
+**Post Text:** A door. In a field. That opens onto a beach. The absurdity of "where it is" vs "what it is" — that's the whole trick. Category 7, free guide, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Swap the beach for anything — a city street, a forest, another room. The mechanism doesn't change."
 2. "Where would you want the door to open onto?"
@@ -191,7 +191,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `That half-second of confusion IS the scroll-stop.`
 - **Narration:** "That half-second of confusion is the scroll-stop. 12 ways to trigger it — free guide, link in bio."
 
-**Post Text:** Here's the actual mechanism behind a scroll-stopping hook (not vibes, not luck): your brain checks reality in 50ms. Break the check → forced pause. That pause is the hook.
+**Post Text:** Here's the actual mechanism behind a scroll-stopping hook (not vibes, not luck): your brain checks reality in 50ms. Break the check → forced pause. That pause is the hook. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "This is also why the SAME trick stops working if you overuse it — the brain adapts. The guide covers 12 different mechanisms."
 2. "Did you rewatch the eye? Be honest."
@@ -223,7 +223,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `11 more categories in the free guide.`
 - **Narration:** "11 more categories in the free guide."
 
-**Post Text:** A strawberry the size of a house. That's the whole hook. Scale is relative — exaggerate the reference and the brain has to stop. Category 2 of 12, free guide below.
+**Post Text:** A strawberry the size of a house. That's the whole hook. Scale is relative — exaggerate the reference and the brain has to stop. Category 2 of 12, free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The skill isn't the size — it's picking the right reference object. A strawberry only reads as 'giant' next to a person."
 2. "What everyday object would be terrifying at 100x size?"
@@ -254,7 +254,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** "This shell just shot a harpoon." That's the whole caption. 21,247 views. Pretty flips to deadly in one sentence — that's the entire mechanism.
+**Post Text:** "This shell just shot a harpoon." That's the whole caption. 21,247 views. Pretty flips to deadly in one sentence — that's the entire mechanism. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "No visual trickery here at all — just real footage and a caption that subverts the expectation the image sets up."
 2. "What's the most 'pretty but deadly' thing you know?"
@@ -286,7 +286,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide has 11 more categories like this.`
 - **Narration:** "Free guide has 11 more categories like this."
 
-**Post Text:** RGB tearing. Scanlines. A screen that looks broken for half a second. Your brain can't help but check if it's real. That's the hook. Category 4 of 12, free guide below.
+**Post Text:** RGB tearing. Scanlines. A screen that looks broken for half a second. Your brain can't help but check if it's real. That's the hook. Category 4 of 12, free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Rule with this one: the glitch should always MEAN something (a reveal, a lie exposed) — never just decoration, or it stops working."
 2. "Did you check your own screen? Be honest."
@@ -322,7 +322,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Real talk: I used to film 10 versions of the same clip hoping one would work. Turns out the issue was never the take. It was the first frame. Free system, link below.
+**Post Text:** Real talk: I used to film 10 versions of the same clip hoping one would work. Turns out the issue was never the take. It was the first frame. Free system, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "If this is you right now — filming the same idea five different ways — the free guide will probably save you a weekend."
 2. "How many takes do you usually shoot for one post?"
@@ -353,7 +353,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `The Complete System. $37.`
 - **Narration:** "The Complete System. $37, instant download, link in bio."
 
-**Post Text:** Free guide = the map. Complete System = 200+ actual prompts, ready to paste. $37, instant download, link below.
+**Post Text:** Free guide = the map. Complete System = 200+ actual prompts, ready to paste. $37, instant download, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "If you've been using the free guide for a few weeks and keep coming back to the same 1–2 categories, the full system is where the other 10 open up."
 2. "Which category would you use first?"
@@ -384,7 +384,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `The only category built to work with the volume off.`
 - **Narration:** "The only category built to work with the volume off. Free guide, link in bio."
 
-**Post Text:** Quick gut check: does your hook still work with the sound off? If not, you're optimizing for the 15% who unmute, not the 85% who don't. Category 12 fixes this. Free guide, link below.
+**Post Text:** Quick gut check: does your hook still work with the sound off? If not, you're optimizing for the 15% who unmute, not the 85% who don't. Category 12 fixes this. Free guide, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Bold kinetic text, shattering words, counting numbers — all mute-proof, all in the free guide."
 2. "Do you add captions before or after editing?"
@@ -416,7 +416,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `12 ways to be different, not loud.`
 - **Narration:** "12 ways to be different, not loud. Free guide, link in bio."
 
-**Post Text:** You don't need louder content. You need content that's different from what's next to it in the feed. That's the whole philosophy behind INTERRUPT. Free guide, link below.
+**Post Text:** You don't need louder content. You need content that's different from what's next to it in the feed. That's the whole philosophy behind INTERRUPT. Free guide, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "If everything in your video is 'loud,' nothing actually stands out. Contrast requires quiet moments too."
 2. "Which stopped your scroll recently — the loudest or the quietest post?"
@@ -448,7 +448,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `11 more moves like this.`
 - **Narration:** "11 more moves like this. Free guide, link in bio."
 
-**Post Text:** The camera whipped. That's the hook. Not the reveal — the motion itself. Category 9 of 12, free guide below.
+**Post Text:** The camera whipped. That's the hook. Not the reveal — the motion itself. Category 9 of 12, free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Rule of thumb: if the camera move doesn't change the meaning of the scene, cut it. It should reveal or intensify, never decorate."
 2. "Did you feel the whip-pan physically?"
@@ -479,7 +479,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Every prompt follows this skeleton. Full formula free.`
 - **Narration:** "Every prompt in the system follows this skeleton. Full formula, free guide, link in bio."
 
-**Post Text:** The entire prompt formula in one post: Camera. Subject. Effect. Environment. Style. Negative prompt. That's the skeleton behind 200+ working prompts. Free guide has the details.
+**Post Text:** The entire prompt formula in one post: Camera. Subject. Effect. Environment. Style. Negative prompt. That's the skeleton behind 200+ working prompts. Free guide has the details. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The golden rule inside the formula: state the effect as a verb + direction, never a vibe. 'Water flows upward' works. 'Surreal water' doesn't."
 2. "Which of the six parts do you always forget?"
@@ -511,7 +511,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Two mirrors. One reflection, repeating forever. The eye can't stop following it. Category 6 of 12 — free guide below.
+**Post Text:** Two mirrors. One reflection, repeating forever. The eye can't stop following it. Category 6 of 12 — free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The reflection-mismatch version (where the mirror does something the subject doesn't) is even more unsettling — subtle beats loud here."
 2. "Did you catch the reflection moving differently?"
@@ -543,7 +543,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Four arms. Four tasks. Zero explanation. The body is the strongest hook there is — break it and nobody scrolls past. Category 8 of 12, free guide below.
+**Post Text:** Four arms. Four tasks. Zero explanation. The body is the strongest hook there is — break it and nobody scrolls past. Category 8 of 12, free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Lighting sets the tone here — bright and warm reads as 'superhero,' dark reads as horror. Same anatomy trick, completely different feeling."
 2. "What would you do with four arms?"
@@ -575,7 +575,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** A person made of sand, constantly re-forming. The material IS the message here. Category 5 of 12 — free guide, link below.
+**Post Text:** A person made of sand, constantly re-forming. The material IS the message here. Category 5 of 12 — free guide, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Try matching the material to what the content is actually about — sand for something eroding, glass for something fragile. It hits harder than a random effect."
 2. "What material would represent your last year?"
@@ -606,7 +606,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** 664 followers. Not from luck. Every single post picks a category before a frame is filmed. That's the difference between posting content and running a system. Free guide below.
+**Post Text:** 664 followers. Not from luck. Every single post picks a category before a frame is filmed. That's the difference between posting content and running a system. Free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The 'Which interrupt do I use today?' framework is literally page one of the paid guide — it's the decision, not the prompt, that matters most."
 2. "Do you plan your hook before you film?"
@@ -638,7 +638,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Everything frozen. One hand still moving. You're not supposed to see a moment like this — that's exactly why it works. Category 3 of 12, free guide below.
+**Post Text:** Everything frozen. One hand still moving. You're not supposed to see a moment like this — that's exactly why it works. Category 3 of 12, free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Perfect loops (this same category) are the most rewatchable format on the list — people replay them just to catch the seam, which doesn't exist."
 2. "Did you rewatch it? Be honest."
@@ -669,7 +669,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Every category has its own cheat sheet.`
 - **Narration:** "Every category has its own cheat sheet. Free guide, link in bio."
 
-**Post Text:** Nobody talks about negative prompts. They should. Same prompt, one exclusion line added — completely different output. Every category's cheat sheet is in the free guide, link below.
+**Post Text:** Nobody talks about negative prompts. They should. Same prompt, one exclusion line added — completely different output. Every category's cheat sheet is in the free guide, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The #1 failure mode across almost every category is camera drift — the model 'moving' the camera to fake an effect. Always specify locked camera."
 2. "What's your most common AI video failure?"
@@ -710,7 +710,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Get the free INTERRUPT guide.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Two options for your next hook: 1. Guess and hope. 2. Pick from 12 categories that already work. Free guide has the second option. Link below.
+**Post Text:** Two options for your next hook: 1. Guess and hope. 2. Pick from 12 categories that already work. Free guide has the second option. Link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "It's genuinely free — no email drip funnel, no upsell wall before you get the PDF. Just the system."
 2. "Be honest — do you guess your hooks or plan them?"
@@ -742,7 +742,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Fix the first second — free guide below.`
 - **Narration:** "If retention craters at second two, nobody's there for the rest. Free guide, link in bio."
 
-**Post Text:** Your retention graph doesn't lie. If it drops in the first 2 seconds, that's not an algorithm problem. That's a first-frame problem. Free fix, link below.
+**Post Text:** Your retention graph doesn't lie. If it drops in the first 2 seconds, that's not an algorithm problem. That's a first-frame problem. Free fix, link below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Pull up your own analytics right now and check where the drop-off actually happens. It's almost always in the first 2 seconds."
 2. "Where does YOUR retention graph drop?"
@@ -774,7 +774,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide has the other 11.`
 - **Narration:** "Free guide has the other 11. Link in bio."
 
-**Post Text:** Black and white. Except one flower. That's the entire hook — contrast the eye can't skip past. Category 11 of 12. Free guide below.
+**Post Text:** Black and white. Except one flower. That's the entire hook — contrast the eye can't skip past. Category 11 of 12. Free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "This works because most feeds are bright and evenly lit — a desaturated frame with one point of color looks nothing like what came before it."
 2. "What colour would you keep?"
@@ -806,7 +806,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Looks glamorous. Pull back — it's not. That gap between setup and reality is the entire hook. Category 10 of 12, free guide below.
+**Post Text:** Looks glamorous. Pull back — it's not. That gap between setup and reality is the entire hook. Category 10 of 12, free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The setup has to be instant and obvious — a smile, a 'luxury' label, a cliché — or the audience never registers what got subverted."
 2. "Did the pull-back catch you off guard?"
@@ -843,7 +843,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `All three, explained free.`
 - **Narration:** "All three, explained free. Link in bio."
 
-**Post Text:** A door cracked open. Nothing shown yet. Your brain won't let you leave until it knows what's behind it. That's an open loop. One of 3 triggers — free breakdown below.
+**Post Text:** A door cracked open. Nothing shown yet. Your brain won't let you leave until it knows what's behind it. That's an open loop. One of 3 triggers — free breakdown below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "The mistake most people make with open loops: they never close them. Leave your audience unsatisfied too often and they stop trusting the hook."
 2. "Did you want to see behind the door?"
@@ -884,7 +884,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Email to apply. A real person replies.`
 - **Narration:** "150 dollars a month, limited spots. Email to apply — a real person replies to every application."
 
-**Post Text:** Know the system but don't have time to run it? We'll run it for you — hooks, videos, captions, posting. All of it. $150/month, limited spots. Email denorgerald@gmail.com to apply.
+**Post Text:** Know the system but don't have time to run it? We'll run it for you — hooks, videos, captions, posting. All of it. $150/month, limited spots. Email denorgerald@gmail.com to apply. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "This isn't a course or another PDF — it's us doing the actual posting on your account. A real person replies to every application."
 2. "Would you rather learn the system or have it run for you?"
@@ -920,7 +920,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Free guide below.`
 - **Narration:** "Free guide, link in bio."
 
-**Post Text:** Honest post: most of my videos get 1–2K views, not 500K. The system isn't a virality guarantee — it's a better first second, every time. That's still worth having. Free guide below.
+**Post Text:** Honest post: most of my videos get 1–2K views, not 500K. The system isn't a virality guarantee — it's a better first second, every time. That's still worth having. Free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "I'd rather show you the boring, typical result than only the one outlier post — that's the honest picture of what this actually does."
 2. "Do you trust creators who only show their viral outliers?"
@@ -956,7 +956,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `The full breakdown is free.`
 - **Narration:** "That's the entire architecture of a hook that holds. Full breakdown free, link in bio."
 
-**Post Text:** The full hook architecture, in one post: 0–0.8s: break reality. 0.8–1.5s: make it personal. 1.5–3s: leave it open. That's the whole formula. Free guide below.
+**Post Text:** The full hook architecture, in one post: 0–0.8s: break reality. 0.8–1.5s: make it personal. 1.5–3s: leave it open. That's the whole formula. Free guide below. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Most people only nail step one and wonder why watch time still drops at second 2 — the interrupt only buys you the first look, not the whole watch."
 2. "Which of the three steps do you skip?"
@@ -987,7 +987,7 @@ Not every post uses all five — adapt as noted.
 - **Overlay:** `Takes 30 seconds to get.`
 - **Narration:** "Takes 30 seconds to get. Link in bio."
 
-**Post Text:** This is the free guide people keep screenshotting and sending to their group chats. 12 categories. Real psychology. No catch. Link below, takes 30 seconds.
+**Post Text:** This is the free guide people keep screenshotting and sending to their group chats. 12 categories. Real psychology. No catch. Link below, takes 30 seconds. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "If you've been putting off grabbing this — it's genuinely just the PDF, no funnel behind it. Link's below."
 2. "Have you sent this to anyone yet?"
@@ -1019,11 +1019,11 @@ Not every post uses all five — adapt as noted.
 - **Narration:** "But you can engineer the first second."
 
 **Clip 5 | 0:20–0:24 | 4 sec**
-- **Visual:** End-card style.
-- **Overlay:** `Get the free 12 Scroll Interrupters.`
-- **Narration:** "Get the free 12 Scroll Interrupters. Link in bio."
+- **Visual:** End-card style with the free-offer CTA.
+- **Overlay:** `Get the free 12 Scroll Interrupters — link below.`
+- **Narration:** "Get the free 12 Scroll Interrupters — link below."
 
-**Post Text:** You can't guarantee virality. But you can engineer the first second. NOTICE → WONDER → STAY. That's the philosophy behind INTERRUPT. Get the free 12 Scroll Interrupters.
+**Post Text:** You can't guarantee virality. But you can engineer the first second. NOTICE → WONDER → STAY. That's the philosophy behind INTERRUPT. Get the free 12 Scroll Interrupters: https://interrupt.denorgerald.workers.dev/
 **Comments:**
 1. "Your next video doesn't need a better caption. It might need a better first second. Start here: Engineer the first second."
 2. "What's the last video that made you stop and wonder?"
